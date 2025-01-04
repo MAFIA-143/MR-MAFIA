@@ -11,7 +11,8 @@ Contact Facebook & WhatsApp 👇
 
 <h4 align="center"> WORLDWIDE WORKING MIX & NEW FACEBOOK ID CLONING COMMAND </h4>
 
-![20200808_160757](https://github.com/Niki404-Cyber/Luxury/blob/main/InShot_20230603_025459141.jpg)
+![Picsart_25-01-04_05-00-29-203](https://github.com/user-attachments/assets/838f5659-530a-4cfe-baae-0cec1f9915c0)
+
 ## <b>Installation</b>
 
 ```
