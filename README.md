@@ -10,7 +10,9 @@ Contact Facebook & WhatsApp 👇
 <h3 align="center"> ADMIN APPROVAL NEED</h3>
 
 <h4 align="center"> WORLDWIDE WORKING MIX & NEW FACEBOOK ID CLONING COMMAND </h4>
-![Picsart_25-01-04_05-14-06-780](https://github.com/user-attachments/assets/634ed16d-bc14-4300-92b3-25046d9a1b7b)
+
+![Picsart_25-01-04_05-14-03-303](https://github.com/user-attachments/assets/df7ecdd0-b2a1-4678-8a5e-b27fbfdb9dcb)
+
 
 ![Picsart_25-01-04_05-00-29-203](https://github.com/user-attachments/assets/838f5659-530a-4cfe-baae-0cec1f9915c0)
 
