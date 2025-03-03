@@ -15,6 +15,6 @@ if fuck == '32bit':
     os.system('clear')
     print('\x1b[1;94m[√] \x1b[1;92mYour Device is 32 bit')
     time.sleep(2)
-    exit() 
+    MX3() 
 os.system('clear')
 print('\x1b[1;97m Soon Your Device Supported Tools ')
