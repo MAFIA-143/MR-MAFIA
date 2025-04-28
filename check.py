@@ -1,0 +1,1 @@
+from instachecker import instachecker
