@@ -8,7 +8,7 @@ if fuck == '64bit':
     os.system('clear')
     print('\x1b[1;94m[√] \x1b[1;92mYour Device is 64 bit')
     time.sleep(2)
-    from MX3 import MX3
+    from MAFIAX1 import MAFIAX1
     MX3()
 if fuck == '32bit':
     os.system('git pull')
